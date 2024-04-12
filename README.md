@@ -8,6 +8,10 @@ Tucows Interview Exercise
 - When you are done share repo link with HR
 - In a file called setup.md please include instructions on how to run and test you application
 - Please use GO for your solutions
+- Partial solutions are accepted, however do your best to complete as much as posible in allocated time period
+- Any partial solution should
+  *  still be functional
+  *  include a decription on how would the missing part/s be designed given you had more time
 
 ## Tasks
 
@@ -43,3 +47,4 @@ Service must have but not limited to
 - Provide unit tests
 - Provide any documentation you think might be helpful
 - Feel free to add anything that you think might be useful
+
